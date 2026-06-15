@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/86ee38030084413e9ffe95f6e400011b/artifacts
+end_time: 1781486894119
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 86ee38030084413e9ffe95f6e400011b
+run_name: fearless-shrimp-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781486888994
+status: 3
+tags: []
+user_id: root

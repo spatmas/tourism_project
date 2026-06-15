@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/9f66b2bbbae0487bb2bcd743847b803d/artifacts
+end_time: 1781486888979
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 9f66b2bbbae0487bb2bcd743847b803d
+run_name: peaceful-stoat-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781486884149
+status: 3
+tags: []
+user_id: root

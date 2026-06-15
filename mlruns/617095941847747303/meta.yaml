@@ -1,0 +1,9 @@
+artifact_location: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303
+creation_time: 1781432734656
+effective_trace_archival_retention: null
+experiment_id: '617095941847747303'
+last_update_time: 1781432734656
+lifecycle_stage: active
+name: tourism_rf_experiment
+trace_location: null
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/115db9136b874f41aec9498f32f16360/artifacts
+end_time: 1781433061162
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 115db9136b874f41aec9498f32f16360
+run_name: burly-ape-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781433054781
+status: 3
+tags: []
+user_id: root

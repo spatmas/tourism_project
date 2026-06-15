@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/04a9521dae1c48a4b435fc8da2dd0e68/artifacts
+end_time: 1781433041976
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 04a9521dae1c48a4b435fc8da2dd0e68
+run_name: whimsical-boar-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781433035776
+status: 3
+tags: []
+user_id: root

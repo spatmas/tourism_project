@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/d3400f567f014e7ba24f9eadb56ffbd9/artifacts
+end_time: 1781433089460
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: d3400f567f014e7ba24f9eadb56ffbd9
+run_name: placid-goat-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781433083026
+status: 3
+tags: []
+user_id: root
