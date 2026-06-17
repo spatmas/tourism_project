@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/c0a576708d634d7e910011baa3a7da09/artifacts
+end_time: 1781664140267
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: c0a576708d634d7e910011baa3a7da09
+run_name: legendary-cub-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781664135522
+status: 3
+tags: []
+user_id: root

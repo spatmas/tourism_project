@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/3e1190fd6e064d74b546af9f4decf17e/artifacts
+end_time: 1781664146742
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 3e1190fd6e064d74b546af9f4decf17e
+run_name: nimble-moth-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781664140287
+status: 3
+tags: []
+user_id: root

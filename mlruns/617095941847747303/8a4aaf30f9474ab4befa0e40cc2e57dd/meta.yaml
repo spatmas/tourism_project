@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/8a4aaf30f9474ab4befa0e40cc2e57dd/artifacts
+end_time: 1781664168971
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 8a4aaf30f9474ab4befa0e40cc2e57dd
+run_name: placid-zebra-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781664163578
+status: 3
+tags: []
+user_id: root

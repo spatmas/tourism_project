@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/367da9cde2754c4dbd277843d1420a40/artifacts
+end_time: 1781664119936
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 367da9cde2754c4dbd277843d1420a40
+run_name: clumsy-squirrel-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781664108898
+status: 3
+tags: []
+user_id: root
