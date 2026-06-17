@@ -1,0 +1,10 @@
+artifact_location: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/models/m-9d6947abb98a4a8ba858ec3eb699342f/artifacts
+creation_timestamp: 1781661033167
+experiment_id: '617095941847747303'
+last_updated_timestamp: 1781661037863
+model_id: m-9d6947abb98a4a8ba858ec3eb699342f
+model_type: null
+name: model
+source_run_id: 82e0c0c5249b4075afef52c69745fac1
+status: 2
+status_message: null

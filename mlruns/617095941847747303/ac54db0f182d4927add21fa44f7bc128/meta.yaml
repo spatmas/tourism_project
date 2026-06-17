@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/ac54db0f182d4927add21fa44f7bc128/artifacts
+end_time: 1781660211798
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: ac54db0f182d4927add21fa44f7bc128
+run_name: grandiose-dolphin-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781660206377
+status: 3
+tags: []
+user_id: root

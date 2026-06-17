@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/74466efcba334d878f8e256c4ac0d10f/artifacts
+end_time: 1781660200062
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 74466efcba334d878f8e256c4ac0d10f
+run_name: casual-skunk-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781660194784
+status: 3
+tags: []
+user_id: root

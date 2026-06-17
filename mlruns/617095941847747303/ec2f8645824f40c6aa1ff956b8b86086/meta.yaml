@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/ec2f8645824f40c6aa1ff956b8b86086/artifacts
+end_time: 1781660155202
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: ec2f8645824f40c6aa1ff956b8b86086
+run_name: sneaky-quail-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781660147255
+status: 3
+tags: []
+user_id: root

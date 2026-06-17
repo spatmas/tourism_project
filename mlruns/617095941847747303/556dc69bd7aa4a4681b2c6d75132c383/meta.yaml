@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/556dc69bd7aa4a4681b2c6d75132c383/artifacts
+end_time: 1781660189425
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: 556dc69bd7aa4a4681b2c6d75132c383
+run_name: smiling-flea-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781660182472
+status: 3
+tags: []
+user_id: root

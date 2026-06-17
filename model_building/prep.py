@@ -7,9 +7,7 @@ from sklearn.model_selection import train_test_split
 from huggingface_hub import HfApi
 
 
-# ==========================
 # Config
-# ==========================
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 repo_id = "Sachinpp04/tourism-project"
@@ -23,9 +21,8 @@ save_path = (
 api = HfApi(token=HF_TOKEN)
 
 
-# ==========================
 # Load dataset from HF
-# ==========================
+
 dataset = load_dataset(
     repo_id,
     split="train",
@@ -37,9 +34,8 @@ df = dataset.to_pandas()
 print(f"Dataset loaded | Shape: {df.shape}")
 
 
-# ==========================
 # Preprocess
-# ==========================
+
 df = df.loc[:, ~df.columns.str.contains("^Unnamed")]
 
 df.drop(
@@ -58,9 +54,8 @@ if "Gender" in df.columns:
     )
 
 
-# ==========================
 # Split
-# ==========================
+
 X = df.drop(
     "ProdTaken",
     axis=1
@@ -77,9 +72,8 @@ Xtrain, Xtest, ytrain, ytest = train_test_split(
 )
 
 
-# ==========================
 # Save + Upload
-# ==========================
+
 files = {
     "Xtrain.csv": Xtrain,
     "Xtest.csv": Xtest,

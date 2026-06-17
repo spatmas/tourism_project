@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/a2434edb76af485b817d8b7a3e85c80a/artifacts
+end_time: 1781661054331
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: a2434edb76af485b817d8b7a3e85c80a
+run_name: popular-asp-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781661048715
+status: 3
+tags: []
+user_id: root

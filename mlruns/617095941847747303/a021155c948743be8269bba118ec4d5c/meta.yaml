@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/a021155c948743be8269bba118ec4d5c/artifacts
+end_time: 1781660194767
+entry_point_name: ''
+experiment_id: '617095941847747303'
+lifecycle_stage: active
+run_id: a021155c948743be8269bba118ec4d5c
+run_name: capable-penguin-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781660189468
+status: 3
+tags: []
+user_id: root

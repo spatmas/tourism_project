@@ -1,0 +1,23 @@
+artifact_path: file:///content/drive/MyDrive/PGP_AIML/Projects/Assignment10/tourism_project/mlruns/617095941847747303/models/m-b99bc895dac544dfbb9d43ba17b170b6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-b99bc895dac544dfbb9d43ba17b170b6
+model_size_bytes: 11555666
+model_uuid: m-b99bc895dac544dfbb9d43ba17b170b6
+prompts: null
+run_id: d3b3099096464faf8fb2c585bb4aa068
+utc_time_created: '2026-06-17 01:51:12.773989'
